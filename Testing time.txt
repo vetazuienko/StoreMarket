@@ -1,0 +1,4 @@
+
+Total Testing time -- 8 hours
+
+Total quantity of bugs -- 4
